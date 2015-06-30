@@ -1,0 +1,9 @@
+F:\C#\Practice\CGP_Apps\CGP_Apps\bin\Release\CGP_Apps.exe.config
+F:\C#\Practice\CGP_Apps\CGP_Apps\bin\Release\CGP_Apps.exe
+F:\C#\Practice\CGP_Apps\CGP_Apps\bin\Release\CGP_Apps.pdb
+F:\C#\Practice\CGP_Apps\CGP_Apps\obj\Release\CGP_Apps.csprojResolveAssemblyReference.cache
+F:\C#\Practice\CGP_Apps\CGP_Apps\obj\Release\CGP_Apps.Properties.Resources.resources
+F:\C#\Practice\CGP_Apps\CGP_Apps\obj\Release\CGP_Apps.csproj.GenerateResource.Cache
+F:\C#\Practice\CGP_Apps\CGP_Apps\obj\Release\CGP_Apps.exe
+F:\C#\Practice\CGP_Apps\CGP_Apps\obj\Release\CGP_Apps.pdb
+F:\C#\Practice\CGP_Apps\CGP_Apps\obj\Release\CGP_Apps.CGP_UI.resources
